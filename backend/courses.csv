@@ -1,0 +1,81 @@
+course_name,rating,watch_time,category
+Introduction to HTML,4.5,50,HTML
+HTML Fundamentals,4.2,40,HTML
+Responsive Web Design with HTML,4.3,55,HTML
+Advanced HTML Techniques,4.1,60,HTML
+HTML5 and Beyond,4.2,48,HTML
+Mastering Semantic HTML,4.4,42,HTML
+HTML and CSS Integration,4.0,38,HTML
+Interactive Web Development with HTML,4.1,45,HTML
+Web Accessibility in HTML,4.3,52,HTML
+HTML Forms and Validation,4.2,47,HTML
+Modern HTML Layouts,4.0,44,HTML
+Building Web Pages with HTML,4.2,46,HTML
+HTML Best Practices,4.1,39,HTML
+Dynamic HTML Techniques,4.0,43,HTML
+HTML Projects for Beginners,4.2,49,HTML
+HTML and JavaScript Integration,4.3,54,HTML
+Advanced HTML5 Features,4.4,58,HTML
+HTML for Mobile Development,4.1,36,HTML
+Web Performance Optimization with HTML,4.5,62,HTML
+HTML and CSS Frameworks,4.2,37,HTML
+CSS Basics,3.8,30,CSS
+Advanced CSS Styling,4.1,45,CSS
+CSS Layouts and Flexbox,3.9,35,CSS
+CSS Grid Essentials,4.0,40,CSS
+Responsive Design with CSS,4.2,50,CSS
+Mastering CSS Transitions,4.3,55,CSS
+CSS Animation Techniques,4.1,48,CSS
+Modern CSS Frameworks,3.9,36,CSS
+Advanced CSS Selectors,4.0,42,CSS
+CSS for Responsive Web Design,4.2,46,CSS
+CSS Flexbox Fundamentals,4.1,38,CSS
+CSS Grid Layouts in Depth,4.3,52,CSS
+Building Scalable CSS,4.2,47,CSS
+Responsive Navigation with CSS,4.0,44,CSS
+CSS Preprocessors: Sass and Less,4.1,39,CSS
+Advanced CSS Challenges,4.2,49,CSS
+Optimizing CSS for Performance,4.3,54,CSS
+CSS-in-JS Techniques,4.0,43,CSS
+CSS Variable Mastery,4.1,41,CSS
+CSS Animation Projects,4.4,58,CSS
+JavaScript Basics,4.0,35,JavaScript
+Advanced JavaScript Concepts,4.2,50,JavaScript
+JavaScript Fundamentals for Web Developers,3.8,30,JavaScript
+Interactive Web Development with JavaScript,4.1,48,JavaScript
+Modern JavaScript Frameworks,4.3,55,JavaScript
+Building Single Page Applications with JS,4.2,45,JavaScript
+JavaScript Design Patterns,4.0,40,JavaScript
+Asynchronous Programming in JavaScript,4.1,42,JavaScript
+Full-Stack JavaScript Development,4.2,47,JavaScript
+JavaScript Projects for Beginners,4.3,52,JavaScript
+Node.js Essentials,4.1,38,JavaScript
+Express.js Fundamentals,4.2,46,JavaScript
+JavaScript and AJAX for Dynamic Web Pages,4.0,43,JavaScript
+React.js for Frontend Development,4.1,39,JavaScript
+Vue.js Basics: Building Interactive UIs,4.2,49,JavaScript
+Angular.js: From Basics to Advanced,4.3,54,JavaScript
+JavaScript Testing and Debugging,4.0,44,JavaScript
+D3.js Data Visualization,4.1,41,JavaScript
+JavaScript Build Tools and Automation,4.2,51,JavaScript
+WebAssembly: JavaScript Beyond the Browser,4.4,58,JavaScript
+React.js Basics,4.2,45,React
+Building React Components,4.0,38,React
+React State Management,4.1,42,React
+React Router: Navigating in React Apps,4.2,47,React
+React Hooks: Fundamentals and Advanced,4.3,52,React
+Advanced React Patterns,4.1,40,React
+React Context API: State Management,4.2,46,React
+React and Redux for State Management,4.0,43,React
+React Performance Optimization,4.1,39,React
+React Forms and Formik,4.2,49,React
+Testing React Applications,4.3,54,React
+React Component Libraries,4.0,44,React
+Server-Side Rendering with React,4.1,41,React
+GraphQL with React: A Complete Guide,4.2,51,React
+React Native: Building Mobile Apps,4.3,56,React
+Full-Stack React Development,4.0,48,React
+React Animation and Transitions,4.1,37,React
+React Security Best Practices,4.2,50,React
+Micro Frontends with React,4.3,55,React
+Advanced React Projects,4.4,58,React
