@@ -11,7 +11,7 @@
 
 ![My animated logo](images/3.PNG)
 
-![My animated logo](images/4.PNG)
+
 
 ![My animated logo](images/5.PNG)
 
